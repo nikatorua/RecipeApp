@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="recipe_cover">Recipe cover</string>
+    <string name="recipe_title">Recipe title</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="_4_5_5_245_ratings">4.5/5 (245 ratings)</string>
+    <string name="_320_calories_per_serving">320 calories per serving</string>
+</resources>
